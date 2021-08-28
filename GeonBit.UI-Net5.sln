@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{2D85D4D8-1DC3-4858-A17F-77E3A9CAD9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeonBit.UI", "GeonBit.UI\GeonBit.UI.csproj", "{E52DCEFC-7CF3-46A9-9806-859272B96178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D85D4D8-1DC3-4858-A17F-77E3A9CAD9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D85D4D8-1DC3-4858-A17F-77E3A9CAD9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D85D4D8-1DC3-4858-A17F-77E3A9CAD9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D85D4D8-1DC3-4858-A17F-77E3A9CAD9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52DCEFC-7CF3-46A9-9806-859272B96178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52DCEFC-7CF3-46A9-9806-859272B96178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52DCEFC-7CF3-46A9-9806-859272B96178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52DCEFC-7CF3-46A9-9806-859272B96178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C3157BA-D389-44D5-A328-B61AEC7D9FD3}
+	EndGlobalSection
+EndGlobal
